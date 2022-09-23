@@ -1,0 +1,16 @@
+{
+  "resourceName": "imagesWorkshop2",
+  "policyUUID": "f9f0ec7e",
+  "bucketName": "postgramaac0c60aaac4457eaef9cfb97b404976",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
